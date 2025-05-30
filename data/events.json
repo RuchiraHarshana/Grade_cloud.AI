@@ -1,0 +1,162 @@
+[
+  {
+    "event_id": "56e29c16-164f-413c-8476-ae7eb881dc0c",
+    "module_code": "pusl3021 ",
+    "module_name": "maths",
+    "description": "4567",
+    "created_at": "2025-05-15T14:27:27.365274",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "653496e7-7523-4773-8e95-51e76ed296c4",
+    "module_code": "kcdjc dc dc j ",
+    "module_name": "maths",
+    "description": "dggdfd",
+    "created_at": "2025-05-15T14:27:29.508631",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "587eb736-cd30-4e07-a87e-3960ef6500e0",
+    "module_code": "kcdjc dc dc j ",
+    "module_name": "maths",
+    "description": "hjbhjbhj",
+    "created_at": "2025-05-15T15:14:05.320000",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "1945c961-bc4f-4637-95f6-60555dd27f1c",
+    "module_code": "cs123",
+    "module_name": "maths",
+    "description": "22.2",
+    "created_at": "2025-05-15T15:34:25.335817",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "dabe779f-d027-496e-8c49-91c21e5aa72a",
+    "module_code": "cs102",
+    "module_name": "big data analytics",
+    "description": "34.6",
+    "created_at": "2025-05-15T16:27:08.372041",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "3c48c1bb-d0db-42d6-b5bd-e6a58eb6493c",
+    "module_code": "cs102",
+    "module_name": "hci",
+    "description": "55.67",
+    "created_at": "2025-05-15T16:29:46.506613",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "c739e497-e49f-4f85-b8a2-a9f5ef72009e",
+    "module_code": "1234",
+    "module_name": "NLP",
+    "description": "32.4",
+    "created_at": "2025-05-15T17:12:58.396326",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "3f3891f4-7358-4ac4-8b5c-111502c61238",
+    "module_code": "4567",
+    "module_name": "data analysis ",
+    "description": "cfg",
+    "created_at": "2025-05-16T16:09:31.263015",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "9b973fda-8fd2-4920-9bac-954ad4665f7b",
+    "module_code": "cbn",
+    "module_name": "nlp 2",
+    "description": "fgh",
+    "created_at": "2025-05-16T17:14:22.052542",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "c9a70cba-2b6e-4502-be8f-c02ce2db6291",
+    "module_code": "pusl3456",
+    "module_name": "stats",
+    "description": "22.2",
+    "created_at": "2025-05-17T13:00:16.995480",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "c86fad52-fa66-424e-ba72-5cb2a6e24dad",
+    "module_code": "pusl 3031",
+    "module_name": "final year project ",
+    "description": "22.2 btch",
+    "created_at": "2025-05-18T03:51:16.376047",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "eef74937-bce1-4da1-8be2-156051966f5a",
+    "module_code": "234",
+    "module_name": "computer science",
+    "description": "dfg",
+    "created_at": "2025-05-18T06:09:43.518436",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "dbeff4cc-941d-475c-80cd-eb2a567441ee",
+    "module_code": "pusl 3031",
+    "module_name": "final year project ",
+    "description": "4567",
+    "created_at": "2025-05-18T07:16:48.025379",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "ebb6ffd3-c1d3-4dce-8f65-92b60dc8a259",
+    "module_code": "pusl 5674",
+    "module_name": "DBMS",
+    "description": "22.2",
+    "created_at": "2025-05-18T08:10:02.385894",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "f4e4f81d-f774-4c4a-b39e-0ad407fd30ac",
+    "module_code": "pusl 5674",
+    "module_name": "DBMS stage2",
+    "description": "22.3",
+    "created_at": "2025-05-18T14:13:23.019592",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "8c94d796-f536-47ea-9ad3-c77785b5d470",
+    "module_code": "pusl 2023",
+    "module_name": "computing project",
+    "description": "last examination for 3rd year plymouth students",
+    "created_at": "2025-05-18T14:27:42.184189",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "533c660f-1976-4ffc-846e-59221daf5e6e",
+    "module_code": "pusl4567",
+    "module_name": "NLP",
+    "description": "22.3",
+    "created_at": "2025-05-18T14:31:58.098362",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "b554be95-d8e0-459a-b17a-97e374255b25",
+    "module_code": "pusl 4545",
+    "module_name": "statstics for compting",
+    "description": "22.3",
+    "created_at": "2025-05-18T14:47:08.173486",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "5dece7da-32c9-4e1d-a8ee-5881cf2a7b90",
+    "module_code": "pusl4567",
+    "module_name": "computer science",
+    "description": "24.3",
+    "created_at": "2025-05-19T01:55:53.586328",
+    "user_email": "teacher1@example.com"
+  },
+  {
+    "event_id": "298de9e3-f0c9-40bb-bb52-d2659feb6240",
+    "module_code": "pusl 3456",
+    "module_name": "big data analytics",
+    "description": "22.3",
+    "created_at": "2025-05-19T06:25:11.393537",
+    "user_email": "teacher1@example.com"
+  }
+]
